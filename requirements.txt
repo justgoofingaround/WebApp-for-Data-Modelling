@@ -5,5 +5,3 @@ numpy
 matplotlib
 sklearn
 seaborn
-python
-io
