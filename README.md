@@ -1,5 +1,10 @@
-# DataScience webapp with Flask
-Data Science webapp to show some of the capabilities of Flask and libraries such as sklearn, pandas, matplotlib, seaborn...
+# Cool Science: A webapp for Data Modelling #
+
+Project - 2 <br>
+UCS757 - Building Innovative Systems <br>
+
+## Overview: ##
+Data Science webapp to show some of the capabilities of Flask and libraries such as sklearn, pandas, matplotlib, seaborn.
 
 ## Capabilities:
 
@@ -85,22 +90,27 @@ The model will only include the variables with an introduced value.
 The available algorithms are the same that were mentioned in "Models".
 It also supports multiclass problems.
 
--------------------------------------------------------------------
 
-Some ideas for improvement:
-- Add formats and delimiters
-- More feature estimators
-- Possibility to choose between Train/test splits and Cross-Validation
-- Add Clustering Algorithms.
-- Parameter tuning
-- Multiclass classification in "Models"
-- Save model results in a database
-- Predict using all the columns, filling the empty variables with the mean or other estimator (this would only work for numeric variables).
-- Output personalization
-- Customized error to give more information about happened (trying to predict a categorical variable with a regression  algorithm, etc.)
-- Upload a file with data to predict.
-- Dataset shape and number of categorical and numeric variables.
-...
+### Live Link: https://datamodelling.herokuapp.com/ ###
+(Sample Data already enclosed in this github-repo)
 
-### VIDEO DEMONSTRATION
-[![LINK TO YOUTUBE VIDEO](https://github.com/alvarodemig/DataScience-webapp-with-flask/blob/master/YoutubeLinkPicture.JPG)](https://www.youtube.com/watch?v=BxizdTrItTk)
+### I/O Screenshot :<br/> ###
+Output-1
+![o1](https://user-images.githubusercontent.com/43958244/137478758-972be20e-e829-42fd-8a1e-76de3559c1f8.png)
+<br>
+<br>
+Output-2
+![o2](https://user-images.githubusercontent.com/43958244/137478821-8d29517d-0a22-4af7-ae30-280026653c5b.png)
+</br>
+Output-3
+![o3](https://user-images.githubusercontent.com/43958244/137478884-1cacacdb-5145-4bc8-ab4f-e358bf6bc62f.png)
+<br>
+<br>
+Output-4
+![o4](https://user-images.githubusercontent.com/43958244/137478915-2f3fdbb8-6ecd-4d80-8623-71831394d2ba.png)
+</br>
+
+### Novelty :<br/> ###
+-	This web-app provides aid for the user to perform the Data Modelling operations without having trouble to write code from scartch for the same.<br>
+
+- With help of this web-app the user will be able to upload his own dataset or can use the previous uploaded datset, perform data preprocessing, summarize dataset, analyse data with the help of various types of graphs, can perform modelling using various alogrithm and finally can predict from the applied model. <br>
