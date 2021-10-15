@@ -111,6 +111,6 @@ Output-4
 </br>
 
 ### Novelty :<br/> ###
--	This web-app provides aid for the user to perform the Data Modelling operations without having trouble to write code from scartch for the same.<br>
+-	This web-app provides aid for the user to perform the Data Modelling operations without having trouble to write code from scratch for the same.<br>
 
 - With help of this web-app the user will be able to upload his own dataset or can use the previous uploaded datset, perform data preprocessing, summarize dataset, analyse data with the help of various types of graphs, can perform modelling using various alogrithm and finally can predict from the applied model. <br>
